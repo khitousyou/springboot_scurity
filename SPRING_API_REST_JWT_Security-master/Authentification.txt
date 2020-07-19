@@ -1,0 +1,3 @@
+@ECHO OFF
+TITLE jwt_api_Authentification
+java -jar C:\Users\Developpeur\Desktop\Stage+Cloud-eco\SPRING_API_REST_JWT_Security-master\SPRING_API_REST_JWT_Security-master\SPRING_API_REST_JWT_Security-master.jar
